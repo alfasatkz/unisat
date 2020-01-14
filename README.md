@@ -1,2 +1,2 @@
 # unisat
-Open source Nano-Satellite Education Project for ALL.
+UNEPG - Unisat Nano-satellite Educational Programme
